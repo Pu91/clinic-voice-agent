@@ -1,0 +1,4 @@
+Flask
+twilio
+groq
+gunicorn
